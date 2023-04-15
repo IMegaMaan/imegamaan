@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://camo.githubusercontent.com/7412c352979b4d82c2d9f5595b9f45d5e0518361985ae464e8ed94eee10a2e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737461732d6368757072696e736b697926686964655f70726f67726573733d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imegamaan&amp;hide_progress=true" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/7412c352979b4d82c2d9f5595b9f45d5e0518361985ae464e8ed94eee10a2e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737461732d6368757072696e736b697926686964655f70726f67726573733d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMegaMaan&amp;hide_progress=true" style="max-width: 100%;">
