@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-### Statistic:
+### Statistics:
 
 <a href="https://github.com/IMegaMaan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
