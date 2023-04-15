@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 Это ссывлка на какую-то статистику:
 <img src="https://camo.githubusercontent.com/7412c352979b4d82c2d9f5595b9f45d5e0518361985ae464e8ed94eee10a2e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737461732d6368757072696e736b697926686964655f70726f67726573733d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMegaMaan&amp;hide_progress=true" style="max-width: 100%;">
 
+
+Вот тут есть еще статистика:
+<a href="https://github.com/IMegaMaan">
+  <img align="center" src="https://camo.githubusercontent.com/322d6b206c8ad4ffd9b2394a34f0e4a19331ebbfd43dc211d4f80c8643596a7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d58657775732673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f7469746c653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
+</a>
 -->
+
+<a href="https://github.com/IMegaMaan">
+  <img align="center" src="https://camo.githubusercontent.com/322d6b206c8ad4ffd9b2394a34f0e4a19331ebbfd43dc211d4f80c8643596a7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d58657775732673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f7469746c653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
+</a>
 
 
