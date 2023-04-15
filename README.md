@@ -55,5 +55,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/IMegaMaan">
   <img align="center" src="https://camo.githubusercontent.com/322d6b206c8ad4ffd9b2394a34f0e4a19331ebbfd43dc211d4f80c8643596a7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d58657775732673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f7469746c653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
 </a> 
-
-
