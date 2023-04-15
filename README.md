@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ### Statistic:
 
 <a href="https://github.com/IMegaMaan">
-  <img align="center" src="ttps://github-readme-stats.vercel.app/api?username=IMegaMaan&amp" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp" data-canonical-src="https://github-readme-stats.vercel.app/api?username=IMegaMaan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_title=true" style="max-width: 100%;">
 </a>
 
