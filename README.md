@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 
 
-<a href="[https://t.me/jschupss](https://t.me/MegaMaan)" rel="nofollow">
+<a href="https://t.me/MegaMaan" rel="nofollow">
     <img src="https://camo.githubusercontent.com/4b83a3a322a1b8d44c3d4114d937fd98daf48ba8a995d65f3073b488e7e9c361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f6c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-blue?logo=telegram&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </a>
 <a href="mailto:dmitry.lyakhovitskiy@gmail.com">
