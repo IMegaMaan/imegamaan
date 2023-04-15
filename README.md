@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker Badge" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">
 
 -->
+
+<img src="https://camo.githubusercontent.com/7412c352979b4d82c2d9f5595b9f45d5e0518361985ae464e8ed94eee10a2e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d737461732d6368757072696e736b697926686964655f70726f67726573733d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imegamaan&amp;hide_progress=true" style="max-width: 100%;">
